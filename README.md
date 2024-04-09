@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmmanuelIdeho
 - 👀 I’m interested in Game, App, and Web development
-- 🌱 I’m currently learning how to use the Unity engine & app development using the Python library Kivy
+- 🌱 I’m currently learning how to use the Unity engine & Web development using the Python library Django
 - 💞️ I’m looking to collaborate on indie game development
 - 📫 How to reach me; send an email to eman.thecoder@gmail.com
 
