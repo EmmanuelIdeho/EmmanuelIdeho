@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EmmanuelIdeho
-- 👀 I’m interested in Game, App, and Web development
-- 🌱 I’m currently learning how to use the Unity engine & Web development using the Python library Django
-- 💞️ I’m looking to collaborate on indie game development
+- 👀 I’m interested in Game, and Web development
+- 🌱 I’m currently learning Web development using the Python library Django
+- 💞️ I’m looking to collaborate on web application development
 - 📫 How to reach me; send an email to eman.thecoder@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
