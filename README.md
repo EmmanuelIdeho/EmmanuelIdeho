@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmmanuelIdeho
 - 👀 I’m interested in Game, and Web development
-- 🌱 I’m currently learning Web development using the Python library Django
+- 🌱 I’m currently learning Fullstack development using the Python Django and React
 - 💞️ I’m looking to collaborate on web application development
 - 📫 How to reach me; send an email to eman.thecoder@gmail.com
 
