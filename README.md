@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmmanuelIdeho
 - 👀 I’m interested in Web development and Data Analysis
-- 🌱 I’m currently learning Fullstack development using the Python Django and React
+- 🌱 I’m currently learning Fullstack development using Django and React
 - 💞️ I’m looking to collaborate on web application development
 - 📫 How to reach me; send an email to eman.thecoder@gmail.com
 
